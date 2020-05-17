@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: ISL6236_V01_PCB.GBR   4/26/2020  7:08:14 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                L1                                      
+.GP1                L2                                      
+.G1                 L3                                      
+.G2                 L4                                      
+.GP2                L5                                      
+.GBL                L6                                      
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTP1               Top Paste                               
+.GTP2               Top Paste                               
+.GTP3               Top Paste                               
+.GTP4               Top Paste                               
+.GTS                Top Solder                              
+.GTS1               Top Solder                              
+.GTS2               Top Solder                              
+.GTS3               Top Solder                              
+.GTS4               Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM2                Board Outline                           
+------------------------------------------------------------------------------------------

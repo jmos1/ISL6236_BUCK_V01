@@ -1,5 +1,5 @@
 # ISL6236A Demo
-<img src="Outputs/Images/ISL6236_Front.PNG" width=400 align=right>
+<img src="Outputs/Images/ISL6236_Front.PNG" width=500 align=right>
 
 ### Summary: ###
   This project is one of two courses used to learn Altium Designer. It builds around a DC-DC switch mode chip with two highly adjustable outputs and an adjustable input. You can find the link to this course at [Fedevel Academy](https://academy.fedevel.com/courses/online-switching-power-supply-design-course), and the repository of the other project [here]().
